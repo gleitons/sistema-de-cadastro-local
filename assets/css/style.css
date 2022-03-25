@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bb {
+    border: black solid 1px;
+}
+main{
+    width: 1200px;
+    margin: auto;
+}
+.form {
+    width: fit-content;
+    margin: auto;
+}
+#results {
+   margin-left: 20%;
+}
